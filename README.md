@@ -1,7 +1,7 @@
 #OLÁ 👋! Me chamo Sandro Dornelas.
 
-:desktop_computer: Determinado em me tornar um desenvolvedor em BackEnd.
-
+:desktop_computer: Determinado em me tornar um desenvolvedor em BackEnd.  Sou apaixonado por tecnologia! Ela possibilita uma grande geração de oportunidades as pessoas, facilitando a vida humana.  
+ 
 :100: Atualmente sigo me aperfeiçoando na linguagem C#, .NET, bem como SQL Server. Contudo, estou aberto para novas experiências.
 
 
