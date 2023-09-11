@@ -15,7 +15,7 @@ Em meus estudos sigo determinado em me tornar um desenvolvedor melhor.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Dornelas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block" ><br>
   <img align="center" alt="Dornelas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Dornelas-vccode" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img align="center" alt="Dornelas-net" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
@@ -23,7 +23,7 @@ Em meus estudos sigo determinado em me tornar um desenvolvedor melhor.
 
 ##
 
-<div> 
+<div align="center"> 
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:sandrodornelas.sd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sandrodornelas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
