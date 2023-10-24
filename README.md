@@ -18,6 +18,7 @@ Pretendo atuar na área de desenvolvimento de software colocando em prática o q
   <img align="center" alt="Dornelas-vccode" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img align="center" alt="Dornelas-net" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
   <img align="center" alt="Dornelas-php" height="30" width="40" <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png"/>
+  <img align="center" alt="Dornelas-sql" height="30" width="40" <img src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png"/>
 </div>
 
 ##
